@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Open Sans";
+}
+
+.menu{
+    background: #2a3f54;
+    float: left;
+    padding: 8px;
+    width: 100px;
+    text-align: center;
+    min-height: 100vh;
+}
+.logo{}
+img.logo-painel{}
+.list-menu{}
