@@ -21,12 +21,24 @@
         </div>
 
         <div class="list-menu">
-            <ul>
+            <ul class="menu-list">
                 <li>
                     <a href="">   
-                        <i class="fas fa-home"></i>                    
-                        
+                        <i class="fas fa-home"></i>    
                         Home
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <i class="far fa-address-card"></i>
+                        Listagem
+                    </a>
+                </li>
+
+                <li>    
+                    <a href="">
+                        <i class="fab fa-fort-awesome"></i>
+                        Forms
                     </a>
                 </li>
             </ul>
