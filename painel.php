@@ -47,5 +47,26 @@
 
     </section> <!-- Fim do Menu -->
     
+
+    <section class="content">
+        <div class="top-dashboard">
+        <div class="dropdown user-dash">
+        <div class="dropdown-toggle" id="dropDownCuston" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <img src="./imgs/user-rubem-candido.png" alt="Rubem Cândido" class="user-dashboard rounded-circle">
+            <p class="user-name">Nome User</p>
+        </div>
+        <div class="dropdown-menu dp-menu" aria-labelledby="dropDownCuston">
+            <a class="dropdown-item" href="#">Perfil</a>
+            <a class="dropdown-item" href="#">Logout</a>
+        </div>
+        </div>
+
+        </div>
+    </section> <!-- Fim do conteúdo -->
+
+    <!-- Js Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
 </body>
 </html>

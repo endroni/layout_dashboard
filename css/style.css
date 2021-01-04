@@ -48,3 +48,50 @@ font-size: 1.6em;
     
 display: block;
 }
+
+.content{
+    
+float: left;
+    
+background: #f7f7f7;
+    
+min-height: 100vh;
+    
+width: calc(100% - 85px);
+}
+
+.top-dashboard{
+
+width: 100%;
+
+float: left;
+
+background: #ededed;
+
+padding: 4px;
+}
+
+.user-dash{
+    float: right;
+    cursor: pointer;
+}
+
+img.user-dashboard{
+    
+width: 45px;
+    
+float: left;
+}
+
+.user-name{
+
+float: left;
+
+margin: 3px 10px;
+
+font-weight: bold;
+}
+
+.dp-menu{
+    
+}
