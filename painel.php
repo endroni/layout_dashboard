@@ -64,7 +64,8 @@
         <div class="content-ds">
 
             <div class="bred">
-                <a href="" class="bred">Home</a> > <a href="" class="bred">Dashboard</a>
+                <a href="" class="bred">Home ></a> 
+                <a href="" class="bred">Dashboard</a>
             </div>
         
             <div class="title-pg">
@@ -72,7 +73,25 @@
             </div>
 
             <div class="content-din">
-            
+
+                <?php for($i = 1; $i <= 10; $i++){ ?>                    
+                        <div class="col-md-3 col-sm-4 col-xm-12">
+                            <div class="rel-dash">
+                                
+                                <i class="fas fa-home"></i>
+                                <div class="text-rel">
+                                    <h2 class="result">
+                                        12
+                                    </h2>
+                                    <h3 class="result-ds">
+                                        Total de Usuários
+                                    </h3>
+                                </div>
+                            </div>                    
+                        </div>
+                    
+                <?php }?>
+
             </div>
         </div> <!-- Fim Content DS -->
     </section> <!-- Fim do conteúdo -->

@@ -96,8 +96,44 @@ font-weight: bold;
     
 }
 .content-ds{}
-.bred{}
-a.bred{}
+.bred{
+    padding: 6px;
+    float: left;
+    width: 100%;
+}
+a.bred{float: left;width: initial;color: #2a3f54;}
 .title-pg{}
-h1.title-pg{}
-.content-din{}
+h1.title-pg{
+    font-size: 2em;
+    margin: 6px 10px;
+    float: left;
+}
+.content-din{
+    float: left;
+    width: 100%;
+    padding: 10px;
+}
+.rel-dash{
+    background: #FFF;
+    float: left;
+    /* padding: 6px; */
+    width: 100%;
+    margin: 10px 0px;
+    border-radius: 6px;
+}
+.rel-dash i{
+    font-size: 4em;
+    float: left;
+    background: #2a3f54;
+    color: #FFF;
+    padding: 6px;
+}
+.text-rel{float: left;}
+.result{
+    font-size: 1.4em;
+    margin: 12px;
+}
+.result-ds{
+    font-size: 1em;
+    margin: 10px;
+}
