@@ -42,26 +42,39 @@
                     </a>
                 </li>
             </ul>
-
-        </div>
+        </div>         
 
     </section> <!-- Fim do Menu -->
     
 
     <section class="content">
         <div class="top-dashboard">
-        <div class="dropdown user-dash">
-        <div class="dropdown-toggle" id="dropDownCuston" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            <img src="./imgs/user-rubem-candido.png" alt="Rubem Cândido" class="user-dashboard rounded-circle">
-            <p class="user-name">Nome User</p>
-        </div>
-        <div class="dropdown-menu dp-menu" aria-labelledby="dropDownCuston">
-            <a class="dropdown-item" href="#">Perfil</a>
-            <a class="dropdown-item" href="#">Logout</a>
-        </div>
-        </div>
+            <div class="dropdown user-dash">
+                <div class="dropdown-toggle" id="dropDownCuston" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <img src="./imgs/user-rubem-candido.png" alt="Rubem Cândido" class="user-dashboard rounded-circle">
+                    <p class="user-name">Nome User</p>
+                </div>
+                <div class="dropdown-menu dp-menu" aria-labelledby="dropDownCuston">
+                    <a class="dropdown-item" href="#">Perfil</a>
+                    <a class="dropdown-item" href="#">Logout</a>
+                </div>
+            </div>
+        </div> <!-- Top Dashboard -->
 
-        </div>
+        <div class="content-ds">
+
+            <div class="bred">
+                <a href="" class="bred">Home</a> > <a href="" class="bred">Dashboard</a>
+            </div>
+        
+            <div class="title-pg">
+                <h1 class="title-pg">Dashboard</h1>
+            </div>
+
+            <div class="content-din">
+            
+            </div>
+        </div> <!-- Fim Content DS -->
     </section> <!-- Fim do conteúdo -->
 
     <!-- Js Bootstrap -->
