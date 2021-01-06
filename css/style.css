@@ -137,3 +137,10 @@ h1.title-pg{
     font-size: 1em;
     margin: 10px;
 }
+.bg-white{
+    background: #FFF;
+}
+
+.form-search{}
+.form-search form{}
+.form-search form input{}
