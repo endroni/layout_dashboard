@@ -19,7 +19,7 @@
                       <th scope="col">Id</th>
                       <th scope="col">Nome</th>
                       <th scope="col">E-mail</th>
-                      <th scope="col">Ação</th>
+                      <th scope="col" width="150">Ação</th>
                     </tr>
                   </thead>
                   <tbody>

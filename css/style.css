@@ -141,6 +141,24 @@ h1.title-pg{
     background: #FFF;
 }
 
-.form-search{}
+.form-search{
+    padding: 20px 0px;
+}
 .form-search form{}
-.form-search form input{}
+.form-search form input{
+    border-radius: 0px;
+}
+.edit{
+    background: #2a3f54;
+    padding: 6px 10px;
+    margin: 0px;
+    color: #FFF;
+    float: left;
+}
+.delete{
+    background: #8e1906;
+    padding: 6px 10px;
+    margin: 0px 4px;
+    color: #FFF;
+    float: left;
+}
