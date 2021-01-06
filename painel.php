@@ -13,6 +13,7 @@
 
     <!-- CSS Próprio -->
     <link rel="stylesheet" href="./css/style.css"/>
+    <link rel="stylesheet" href="./css/style-reset.css"/>
 </head>
 <body>
     <section class="menu">
