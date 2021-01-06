@@ -10,11 +10,11 @@
     <link rel="stylesheet" href="./css/login-style.css"/>    
 
     <!--Favicon-->
-    <link rel="icon" type="image/png" href="./imgs/favicon.png">
+    <link rel="icon" type="image/png" href="./imgs/favicon.jpg">
 <body class="bg-login">
 	<section class="login">
 		<div class="image-login">
-			<img src="./imgs/logo-especializati.png" alt="Especializa TI" class="img-login">
+			<img src="./imgs/learnCool.png" alt="Especializa TI" class="img-login">
 		</div>
 
 		<form class="form-login">

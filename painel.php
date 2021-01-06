@@ -16,12 +16,12 @@
     <link rel="stylesheet" href="./css/style-reset.css"/>
 
     <!--Favicon-->
-    <link rel="icon" type="image/png" href="./imgs/favicon.png">
+    <link rel="icon" type="image/png" href="./imgs/favicon.jpg">
 </head>
 <body>
     <section class="menu">
         <div class="logo">
-            <img src="./imgs/icone-especializati.png" alt="Logo Curso" class="logo-painel">
+            <img src="./imgs/learnCool.png" alt="Logo Curso" class="logo-painel">
         </div>
 
         <div class="list-menu">
