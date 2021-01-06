@@ -14,6 +14,9 @@
     <!-- CSS Próprio -->
     <link rel="stylesheet" href="./css/style.css"/>
     <link rel="stylesheet" href="./css/style-reset.css"/>
+
+    <!--Favicon-->
+    <link rel="icon" type="image/png" href="./imgs/favicon.png">
 </head>
 <body>
     <section class="menu">
@@ -24,20 +27,20 @@
         <div class="list-menu">
             <ul class="menu-list">
                 <li>
-                    <a href="">   
+                    <a href="?pag=home">   
                         <i class="fas fa-home"></i>    
                         Home
                     </a>
                 </li>
                 <li>
-                    <a href="">
+                    <a href="?pag=list">
                         <i class="far fa-address-card"></i>
                         Listagem
                     </a>
                 </li>
 
                 <li>    
-                    <a href="">
+                    <a href="?pag=forms">
                         <i class="fab fa-fort-awesome"></i>
                         Forms
                     </a>

@@ -2,10 +2,10 @@
     <h1 class="title-pg">Formulários</h1>
 </div>
 
-<div class="content-din bg-white">
+<div class="content-din">
 
 
-  <form class="form form-search">
+  <form class="form form-search form-ds">
     <div class="form-group">
       <input type="text" name="nome" placeholder="Nome:" class="form-control">
     </div>

@@ -1,2 +1,14 @@
 a:hover{text-decoration: none;}
 form input{border-radius: 0px !important;}
+.dropdown-menu{
+    background: #ededed;
+    border: none;
+    border-radius: 0px;
+    box-shadow: none;
+    margin: 13px 4px;
+    border-bottom: 1px solid #CCC;
+    border-left: 1px solid #CCC;
+    border-right: 1px solid #CCC;
+}
+
+.dropdown-menu.dp-menu {}
