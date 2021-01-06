@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
+    <title>Recuperar Senha</title>
 
 
     <!-- CSS Próprio -->
@@ -19,11 +19,10 @@
 
 		<form class="form-login">
 				<input type="text" name="email" placeholder="E-mail">
-				<input type="password" name="password" placeholder="Senha">
 
-				<button class="btn btn-second">Acessar</button>
+				<button class="btn btn-second">Recuperar</button>
 
-				<a href="recupera-senha.php" class="rel-pass">Recuperar Senha?</a>
+				<a href="index.php" class="rel-pass">Login?</a>
 		</form>
 
 	</section>
